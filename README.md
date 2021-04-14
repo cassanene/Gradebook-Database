@@ -5,13 +5,13 @@ You are asked to implement a grade book to keep track student grades for several
 
 If you know how to use mysql, start it up on your local computer's terminal. Then enter the line
 
-```bash
+```sql
 CREATE DATABASE GRADEBOOK;
 ```
 
 then after that line use the database by doing:
 
-```bash
+```sql
 use GRADEBOOK;
 ```
 After inserting this line you should be able to use every line in the .sql file and the database will be created.
